@@ -72,6 +72,7 @@ If you prefer not to initiate Pull Requests but would like to engage with us, yo
 ## <a name="O"></a>O
 
 - [Odoo REST API](https://github.com/yezyilomo/odoo-rest-api) - 📦 Module that exposes Odoo ERP as a REST API. **By [@yezyilomo](https://github.com/yezyilomo)**
+- [Octopalm.js](https://github.com/eddiegulay/octopalm) - 🖱️ A lightweight JavaScript library for real-time, customizable search functionalities on web applications. **By [@eddiegulay](https://github.com/eddiegulay)**
 
 ## <a name="P"></a>P
 
