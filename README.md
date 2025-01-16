@@ -101,6 +101,9 @@ If you prefer not to initiate Pull Requests but would like to engage with us, yo
 ## <a name="W"> </a>W
 - [Web3 Storage IPFS Python API](https://github.com/tahaafarooq/web3storagepy) - 🌍 This is IPFS web3.storage unofficial library written in python. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 
+## <a name="Z"> </a>Z
+- [Zeno Pay PHP](https://github.com/ms3c/zenopay-php) - 💳 This is a PHP library for Zeno Pay. **By [@ms3c](https://github.com/ms3c)**
+
 <br>
 <br>
 
